@@ -1,4 +1,4 @@
-# 🐧 Documentação de Linux no VirtualBox
+#  Documentação de Linux no VirtualBox
 
 Este documento detalha o processo de instalação e configuração básica do sistema operacional Linux (Ubuntu) dentro do ambiente de virtualização do VirtualBox.
 
